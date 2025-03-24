@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "423856718799",
+    "project_id": "fool-proof-attendance-app",
+    "storage_bucket": "fool-proof-attendance-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423856718799:android:bc19eea3f44d4fdf2688ba",
+        "android_client_info": {
+          "package_name": "com.example.flutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq9CfEH9soM47vJ-QhPIIGIILyz9SgTuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
